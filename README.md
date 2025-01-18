@@ -27,7 +27,7 @@ The application uses two primary functions:
   * img: The current frame from the video feed.
   * faceCascade: Haar Cascade classifier for face detection.
   * smileCascade: Haar Cascade classifier for detecting smiles
-  * 
+    
 ### Usage:
 1. Run the script
 2. Webcam feed:
