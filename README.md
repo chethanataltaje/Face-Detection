@@ -5,7 +5,7 @@
 * Real-time face detection: Detects faces in the video feed and highlights them with blue bounding boxes.
 * Smile detection: Identifies smiles within the detected faces and marks them with green bounding boxes.
 * Live annotations: Displays labels for faces and smiles in the video.
-* Easy exit
+* Easy exit.
   
 ### Code Overview
 The application uses two primary functions:
