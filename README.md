@@ -6,7 +6,7 @@
 * Smile detection: Identifies smiles within the detected faces and marks them with green bounding boxes.
 * Live annotations: Displays labels for faces and smiles in the video.
 * Easy exit: Press q to exit the application.
-* 
+  
 ### Code Overview
 The application uses two primary functions:
 
@@ -28,7 +28,7 @@ The application uses two primary functions:
   * faceCascade: Haar Cascade classifier for face detection.
   * smileCascade: Haar Cascade classifier for detecting smiles
   * 
-###Usage:
+### Usage:
 1. Run the script
 2. Webcam feed:
 * The application will open your webcam and display real-time detection.
