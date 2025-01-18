@@ -36,3 +36,5 @@ The application uses two primary functions:
 * Green boxes: Smiles detected within faces.
 3. Exit: press 'q' to exit the application
 
+  Link to the demo video: https://drive.google.com/file/d/1ht7qXYCrBPqTsp06fOTykt4jnpTsbA-r/view?usp=sharing
+
